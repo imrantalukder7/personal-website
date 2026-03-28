@@ -1,0 +1,33 @@
+body{
+    margin: 0px;
+}
+.tops{
+    background-image: url(image/header-bg.png);
+    background-repeat: no-repeat;
+    background-position: 100%;
+}
+
+.topd{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+
+#topid{
+    align-content: center;
+}
+
+.topd img{
+    width: 100%;
+}
+
+.topm{
+background-image: url(image/biography-bg.png);
+background-repeat: no-repeat;
+}
+
+section{
+    height: 500px;
+    padding-bottom: 200px;
+}
