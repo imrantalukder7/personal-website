@@ -31,6 +31,12 @@ section{
     padding-bottom: 200px;
 }
 
+
+
+
+
+
+
 .topd2{
     width: 40%;
     float: right;
@@ -48,4 +54,51 @@ margin-top: 10%;
     background-image: url(image/biography-bg.png);
     background-repeat: no-repeat;
     background-size: 100% 100%;
+}
+
+
+
+
+
+.lastd{
+    width: 25%;
+    float: left;
+    margin-left: 4%;
+    padding-left: 2%;
+}
+
+.lastd img{
+    width: 100%;
+    padding-top: 40%;
+}
+
+.lasts{
+    background-image: url(image/latest-work-bg.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+#lasth{
+    text-align: center;
+}
+
+
+
+
+.finis{
+    text-align: center;
+    background-image: url(image/footer-bg.png);
+    background-repeat: no-repeat;
+    
+}
+.hi{
+    background-color: palevioletred;
+    padding: 10px;
+    margin-left: 450px;
+    margin-right: 450px;
+    border-radius: 10px;
+}
+
+
+#fotter{
+    text-align: center;
 }
