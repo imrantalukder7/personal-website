@@ -1,0 +1,47 @@
+ggg
+
+<section class="topm">
+        <div>
+            <img src="image/peter_dream.png" alt="">
+        </div>
+        <div>
+            <p>Hello I'm</p>
+            <h1>Jack Smith</h1>
+            <p>You mihgt jumping cliping how happend to be at need to me att togather on the morning on this area to be at this time</p>
+            <a href="https://www.facebook.com/imran.talukder.895565?rdid=NG24HGRsldWHXkH1&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F183T8FJ24C%2F#">HIRE ME</a>
+        </div>
+        
+    </section>
+        
+    <section>
+        <div>
+            <h2>My Latest Work</h2>
+        </div>
+        <div>
+            <img src="image/pic/work-1.png" alt="">
+            <img src="image/pic/work-2.jpg" alt="">
+            <img src="image/pic/work-3.jpg" alt="">
+        </div>
+    </section>
+
+    <section>
+        <h3>What clint are say</h3>
+        <p>Becuse money</p>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi debitis molestiae ex recusandae nemo ea aliquam hic? A obcaecati ipsam ab maiores quas tempore.</p>
+    </section>
+
+
+
+
+
+    .topd{
+    width: 40%;
+    float: left;
+    padding-left: 2%;
+    padding-top: 5%;
+}
+
+.topd img{
+    height: 500px;
+    float: right;
+}
