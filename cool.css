@@ -88,7 +88,7 @@ margin-top: 10%;
     text-align: center;
     background-image: url(image/footer-bg.png);
     background-repeat: no-repeat;
-    
+    height: 50px;
 }
 .hi{
     background-color: palevioletred;
@@ -101,4 +101,5 @@ margin-top: 10%;
 
 #fotter{
     text-align: center;
+    margin-bottom: 10px;
 }
